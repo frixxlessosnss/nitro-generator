@@ -43,4 +43,5 @@
   <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KanekiWeb.Nitro-Generator" alt="Visitor Count">
 </p>
- ![GENERATORPREVIEW](https://cdn.discordapp.com/attachments/989235751537504286/1042153482175660134/image.png)
+
+![GENERATORPREVIEW](https://cdn.discordapp.com/attachments/989235751537504286/1042153482175660134/image.png)
